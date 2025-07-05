@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Fumiya 👋
 
-<!--
-**fumiya-adachi/fumiya-adachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a PHP/Laravel developer based in Japan.
 
-Here are some ideas to get you started:
+- 💻 Languages: PHP, JavaScript, TypeScript
+- ⚙️ Frameworks: Laravel, Vue.js, React
+- 🌱 Lately diving into the world of React
+- 🚀 Tools: Docker, AWS, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 My Tech Stack
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-red?style=flat&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+📫 How to reach me fumiya4adachi@gmail.com
