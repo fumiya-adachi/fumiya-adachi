@@ -11,7 +11,8 @@ I enjoy building full-stack applications and learning new technologies.
 ## 🚀 Portfolio
 
 ### Memorizar
-A flashcard app for language learning.
+A flashcard app for language learning.  
+Users can create decks, manage flashcards, and review them efficiently using a learning mode that focuses on weak cards.
 
 Features
 
@@ -20,15 +21,27 @@ Features
 - Review mode
 - Weak card learning
 - Speech playback
+- AI-powered deck generation using OpenAI
 - Authentication
 
 Tech Stack
 
+Frontend
 - Next.js
 - TypeScript
-- Prisma
-- PostgreSQL
+
+Backend
+- Next.js Server Actions
 - Auth.js
+
+Database
+- PostgreSQL
+- Prisma
+
+AI / API
+- OpenAI Responses API
+
+Infrastructure
 - Vercel
 
 🔗 Live Demo  
