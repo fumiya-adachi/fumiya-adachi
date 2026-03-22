@@ -2,7 +2,7 @@
 
 I'm a web developer based in Japan.
 
-Previously worked with **PHP / Laravel**, and recently focusing on **TypeScript, React, and Next.js**.
+Previously worked with **PHP / Laravel**, and recently focusing on **TypeScript, React, Next.js and React Native**.
 
 I enjoy building full-stack applications and learning new technologies.
 
