@@ -68,9 +68,3 @@ https://github.com/fumiya-adachi/memorizar
 - AWS
 - Git
 - PostgreSQL
-
----
-
-## 📫 Contact
-
-Email: fumiya4adachi@gmail.com
